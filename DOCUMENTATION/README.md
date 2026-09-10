@@ -27,6 +27,6 @@ Syntax:
 ```SQL
 CREATE OR REPLACE VIEW v_clean_trips as
 select column_names
-from your_table;
+from table_name;
 
   
